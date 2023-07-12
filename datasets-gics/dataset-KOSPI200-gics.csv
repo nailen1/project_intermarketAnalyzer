@@ -1,0 +1,201 @@
+ticker,GICS_SECTOR_NAME,GICS_INDUSTRY_GROUP_NAME,GICS_INDUSTRY_NAME,GICS_SUB_INDUSTRY_NAME
+000080 KS,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+000100 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+000120 KS,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+000150 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+000210 KS,Materials,Materials,Chemicals,Commodity Chemicals
+000240 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+000270 KS,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+000660 KS,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+000670 KS,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+000720 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+000810 KS,Financials,Insurance,Insurance,Property & Casualty Insurance
+000880 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+000990 KS,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+001040 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+001120 KS,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+001230 KS,Materials,Materials,Metals & Mining,Steel
+001440 KS,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+001450 KS,Financials,Insurance,Insurance,Property & Casualty Insurance
+001680 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+001740 KS,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+001800 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+002380 KS,Materials,Materials,Chemicals,Diversified Chemicals
+002790 KS,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+003090 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+003230 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+003240 KS,Materials,Materials,Chemicals,Commodity Chemicals
+003410 KS,Materials,Materials,Construction Materials,Construction Materials
+003490 KS,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+003550 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+003670 KS,Materials,Materials,Construction Materials,Construction Materials
+003850 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+004000 KS,Materials,Materials,Chemicals,Diversified Chemicals
+004020 KS,Materials,Materials,Metals & Mining,Steel
+004170 KS,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+004370 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+004490 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+004800 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+004990 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+005250 KS,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+005300 KS,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+005380 KS,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+005490 KS,Materials,Materials,Metals & Mining,Steel
+005830 KS,Financials,Insurance,Insurance,Property & Casualty Insurance
+005850 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+005930 KS,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+005940 KS,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+006040 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+006260 KS,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+006280 KS,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+006360 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+006400 KS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+006650 KS,Materials,Materials,Chemicals,Commodity Chemicals
+006800 KS,Financials,Financial Services,Capital Markets,Diversified Capital Markets
+007070 KS,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+007310 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+008770 KS,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+008930 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+009150 KS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+009240 KS,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+009420 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+009540 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+009830 KS,Materials,Materials,Chemicals,Commodity Chemicals
+009900 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+010060 KS,Materials,Materials,Chemicals,Diversified Chemicals
+010120 KS,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+010130 KS,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+010140 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+010620 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+010780 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+010950 KS,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+011070 KS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+011170 KS,Materials,Materials,Chemicals,Commodity Chemicals
+011200 KS,Industrials,Transportation,Marine Transportation,Marine Transportation
+011210 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+011780 KS,Materials,Materials,Chemicals,Commodity Chemicals
+011790 KS,Materials,Materials,Chemicals,Commodity Chemicals
+012330 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+012450 KS,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+012750 KS,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Security & Alarm Services
+013890 KS,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+014680 KS,Materials,Materials,Chemicals,Specialty Chemicals
+014820 KS,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Contain"
+015760 KS,Utilities,Utilities,Electric Utilities,Electric Utilities
+016360 KS,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+016380 KS,Materials,Materials,Metals & Mining,Steel
+017670 KS,Communication Services,Telecommunication Services,Wireless Telecommunication Ser,Wireless Telecommunication Ser
+017800 KS,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplie
+018260 KS,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+018880 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+019170 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+020000 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+020150 KS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+020560 KS,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+021240 KS,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances
+023530 KS,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+024110 KS,Financials,Banks,Banks,Diversified Banks
+026960 KS,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Distributors
+028050 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+028260 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+028670 KS,Industrials,Transportation,Marine Transportation,Marine Transportation
+029780 KS,Financials,Financial Services,Consumer Finance,Consumer Finance
+030000 KS,Communication Services,Media & Entertainment,Media,Advertising
+030200 KS,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+031430 KS,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+032350 KS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+032640 KS,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+032830 KS,Financials,Insurance,Insurance,Life & Health Insurance
+033780 KS,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco
+034020 KS,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment
+034220 KS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+034730 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+035250 KS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+035420 KS,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+035720 KS,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+036460 KS,Utilities,Utilities,Gas Utilities,Gas Utilities
+036570 KS,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+039130 KS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+039490 KS,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+042660 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+042670 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+047040 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+047050 KS,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+047810 KS,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+051600 KS,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+051900 KS,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+051910 KS,Materials,Materials,Chemicals,Commodity Chemicals
+052690 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+055550 KS,Financials,Banks,Banks,Diversified Banks
+057050 KS,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+064350 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+066570 KS,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Consumer Electronics
+068270 KS,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+069260 KS,Materials,Materials,Chemicals,Specialty Chemicals
+069620 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+069960 KS,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+071050 KS,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+073240 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Tires & Rubber
+078930 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+079550 KS,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+081660 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+086280 KS,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+086790 KS,Financials,Banks,Banks,Diversified Banks
+088350 KS,Financials,Insurance,Insurance,Life & Health Insurance
+090430 KS,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+093370 KS,Materials,Materials,Chemicals,Commodity Chemicals
+096770 KS,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+097950 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+103140 KS,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+105560 KS,Financials,Banks,Banks,Diversified Banks
+105630 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+111770 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+112610 KS,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment
+114090 KS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+120110 KS,Materials,Materials,Chemicals,Commodity Chemicals
+128940 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+137310 KS,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+138040 KS,Financials,Financial Services,Financial Services,Diversified Financial Services
+138930 KS,Financials,Banks,Banks,Regional Banks
+139130 KS,Financials,Banks,Banks,Regional Banks
+139480 KS,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+161390 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Tires & Rubber
+161890 KS,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+175330 KS,Financials,Banks,Banks,Diversified Banks
+178920 KS,Materials,Materials,Chemicals,Commodity Chemicals
+180640 KS,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+185750 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+192080 KS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+192820 KS,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+204320 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+207940 KS,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+241560 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+241590 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo",Footwear
+251270 KS,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+259960 KS,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+267250 KS,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+271560 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+271940 KS,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+272210 KS,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+280360 KS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+282330 KS,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+284740 KS,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Computer & Electronics Retail
+285130 KS,Materials,Materials,Chemicals,Commodity Chemicals
+294870 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+298020 KS,Materials,Materials,Chemicals,Commodity Chemicals
+298050 KS,Materials,Materials,Chemicals,Commodity Chemicals
+300720 KS,Materials,Materials,Construction Materials,Construction Materials
+302440 KS,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+316140 KS,Financials,Banks,Banks,Diversified Banks
+323410 KS,Financials,Banks,Banks,Diversified Banks
+326030 KS,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+329180 KS,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+336260 KS,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+352820 KS,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+361610 KS,Materials,Materials,Chemicals,Specialty Chemicals
+373220 KS,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+375500 KS,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+377300 KS,Financials,Financial Services,Financial Services,Transaction & Payment Processi
+381970 KS,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+383220 KS,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+402340 KS,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
